@@ -1,3 +1,10 @@
-"Nothing work well without testing" est, c'est tellement vrai,
- J'ai vu des centaines des projets y compris les miennes sont bourrées par des bugs est tellement compliqué et difficile aux faires évoluer et les maintenir, mon excuse était je n'ai pas le temps à faire de TDD mais rélement il s'agit de la flemme de ma part d'apprendre cette approche et surtout que j'ignorais les concéconses et je ne pensais pas à moyen et long terme concernant l'évolution des projets, c'est tellement faux car aujoudrd'huit je vois que la plupart des projets soient ne sont pas là ou bien je suis obligé de faire des refontes et de recommencer à partir de zéro, c'est de l'argent jeter par la fenêtre.
-Alors j'ai décidé que dorénavant, je vais investir profondément à apprendre et pratiquer le TDD et à travers ce projet GIT, je comptais partager au fil du temps mes avancements ....
+# ***"Nothing work well without testing" est, c'est tellement vrai !***  
+
+Je constate que pas mal de projets y compris les miens contiennent beaucoup des bugs et ils sont tellement difficiles à maintenir ou à faire évoluer. J’ai toujours eu comme excuse le manque de temps évident et un planning surchargé pour apprendre à pratiquer le TDD, mais je crois que la vraie raison c’est que j’ai la flemme d’apprendre cette approche et que j'ignore  les conséquences que cela a pu avoir sur mes projets sont de taille.  
+
+Je pense qu’il est temps de penser à moyen et à long terme car dévasté par le résultat, je réalise avec amertume que certains projets ne voient pas le jour malheureusement ou je me retrouve dans l’obligation de faire des refontes et recommencer à zéro. C’est donc l’argent jeté par la fenêtre !  
+
+Alors j’ai décidé que dorénavant je vais investir dans mon temps convenablement pour apprendre et pratiquer de TDD donc à travers ce projet GIT je compte partager au fil du temps mon avancement...
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQzNzA3MTU1MV19
+-->
