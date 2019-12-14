@@ -1,1 +1,3 @@
-# Nothing-work-well-without-testing
+"Nothing work well without testing" est, c'est tellement vrai,
+ J'ai vu des centaines des projets y compris les miennes sont bourrées par des bugs est tellement compliqué et difficile aux faires évoluer et les maintenir, mon excuse était je n'ai pas le temps à faire de TDD mais rélement il s'agit de la flemme de ma part d'apprendre cette approche et surtout que j'ignorais les concéconses et je ne pensais pas à moyen et long terme concernant l'évolution des projets, c'est tellement faux car aujoudrd'huit je vois que la plupart des projets soient ne sont pas là ou bien je suis obligé de faire des refontes et de recommencer à partir de zéro, c'est de l'argent jeter par la fenêtre.
+Alors j'ai décidé que dorénavant, je vais investir profondément à apprendre et pratiquer le TDD et à travers ce projet GIT, je comptais partager au fil du temps mes avancements ....
